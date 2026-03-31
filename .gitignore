@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/settings.json
+
+# Spec story
+.specstory/
